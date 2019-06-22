@@ -15,7 +15,7 @@ $ vi AspDotnetCoreRazorPagesApplication/appsettings.json
 ```
 
 ```csharp
-    "PostgreSQLConnection": "Host=localhost; Database=asp_dotnet_core_razoer_pages; Username=postgres; Password=postgres"
+    "PostgreSQLConnection": "Host=localhost; Database=asp_dotnet_core_razor_pages; Username=postgres; Password=postgres"
 ```
 
 ```sh
